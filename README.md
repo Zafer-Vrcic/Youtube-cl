@@ -1,28 +1,3 @@
-# library
-- react-router-dom
-- react-icons
-- axios
-- millify
-- moment
-- react-player
-- tailwind (kurulum sitesinde)
-# sources
--API:https://rapidapi.com/ytjar/api/yt-api
-
-
-# Notes
-
- * 1. path params
-
-- ex:products/56
-
- * when we want to reach like this endpoint we using useParams
-
-2. query param(Query Param)
-
- - ex:products?id=56
- * when we want to have endpoint like this we using `useSearchParams`
-
 
  <h2>Youtube-cl</h2>
 
